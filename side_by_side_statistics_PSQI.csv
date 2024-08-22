@@ -1,0 +1,20 @@
+Metric,count,unique,top,freq
+"During the past month, what time have you usually gone to bed at night? ",83,55,2:00 AM,8
+"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",83,45,10,13
+When have you usually gotten up in the morning?,83,50,8am,5
+"During the past month, how many hours of actual sleep did you get at night? (This may be different than the number of hours you spent in bed.)",83,42,7,13
+a. Cannot get to sleep within 30 minutes,81,4,Not during the past month,35
+b. Wake up in the middle of the night or early morning,82,4,Not during the past month,35
+c. Have to get up to use the bathroom,81,4,Not during the past month,40
+d. Cannot breathe comfortably,81,3,Not during the past month,72
+e. Cough or snore loudly,79,4,Not during the past month,68
+f. Feel too cold,81,4,Not during the past month,51
+g. Feel too hot,81,3,Not during the past month,50
+h. Have bad dreams,81,4,Not during the past month,46
+i. Have pain,81,4,Not during the past month,63
+j. Other reason(s),70,4,Not during the past month,58
+"Other reason(s), please describe, including how often you have had trouble sleeping because of this reason(s):",11,11,headaches,1
+"During the past month, how often have you taken medicine (prescribed or over the counter) to help you sleep?",83,4,Not during the past month,69
+"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",83,4,Not during the past month,31
+"During the past month, how much of a problem has it been for you to keep up enthusiasm to get things done?",82,4,Once or a twice week,25
+"During the past month, how would you rate your sleep quality overall?",83,4,Fairly good,51
